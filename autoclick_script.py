@@ -4,7 +4,7 @@ import random
 import time
 
 def main():
-    print("Press Shift+A+(1 - 6) to change click speed)")
+    print("Press Shift+A+(1 - 6) to select click speed)")
     print("Press Shift+A+X to exit")
 
     hotkey_speeds = {
