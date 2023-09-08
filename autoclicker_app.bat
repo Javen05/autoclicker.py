@@ -1,3 +1,3 @@
 @echo off
-cd C:\Users\javen\Desktop\autoclick_script
-python autoclick.py
+cd C:\Users\javen\Desktop\autoclicker
+python autoclick_script.py
