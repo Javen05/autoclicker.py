@@ -1,6 +1,6 @@
 # Simple Python3 Autoclicker
 Usage:
-- Meant for spam clicking, autofarming, and reptitive clicking
+- Meant for spam clicking, autofarming, and repetitive clicking
 - Not meant for competitive clicking as the max rate is 9.4 clicks per second.
 
 Descriptions:
